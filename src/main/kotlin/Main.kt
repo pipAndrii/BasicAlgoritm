@@ -1,6 +1,6 @@
 import kotlin.random.Random
 
-const val num = 9
+const val num = 8
 fun main() {
     // list and sorting
     var list = generateList(num)
@@ -21,7 +21,7 @@ fun main() {
     // list and sorting
     list = generateList(num)
     printList(list)
-    println(sortMerge(list))
+    printList(sortMerge(list))
     println()
 
 }
