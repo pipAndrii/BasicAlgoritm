@@ -24,6 +24,12 @@ fun main() {
     printList(sortMerge(list))
     println()
 
+    // list and sorting
+    list = generateList(num)
+    printList(list)
+    printList(sortHeap(list))
+    println()
+
 }
 
 
