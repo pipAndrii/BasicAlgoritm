@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e72032ee-cb0c-4bde-8ab3-40f2796ebfad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Heap.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Quick.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Heap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Heap.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="e021286ba2cc75869e0255010769aeea6af35467" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -62,11 +66,36 @@
       <workItem from="1699889279504" duration="6386000" />
       <workItem from="1700049239103" duration="2257000" />
       <workItem from="1700070061077" duration="4864000" />
-      <workItem from="1700122900972" duration="5214000" />
+      <workItem from="1700122900972" duration="6228000" />
+      <workItem from="1700146201864" duration="4932000" />
+      <workItem from="1700243854634" duration="228000" />
+      <workItem from="1700304008929" duration="6954000" />
+      <workItem from="1700478566193" duration="6220000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Heap.kt</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JetRunConfigurationType">
+        <watch expression="i" />
+        <watch expression="list[i]" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
