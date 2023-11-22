@@ -1,6 +1,6 @@
 import kotlin.random.Random
 
-const val num = 11
+const val num = 20
 fun main() {
     // list and sorting
     var list = generateList(num)
@@ -27,8 +27,8 @@ fun main() {
     // list and sorting
     list = generateList(num)
     printList(list)
-    println(sortHeap(list))
-    println()
+    printList(sortHeap(list))
+
 
 }
 

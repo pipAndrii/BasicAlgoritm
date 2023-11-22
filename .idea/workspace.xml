@@ -70,7 +70,9 @@
       <workItem from="1700146201864" duration="4932000" />
       <workItem from="1700243854634" duration="228000" />
       <workItem from="1700304008929" duration="6954000" />
-      <workItem from="1700478566193" duration="6220000" />
+      <workItem from="1700478566193" duration="6241000" />
+      <workItem from="1700504468975" duration="3405000" />
+      <workItem from="1700654921046" duration="3452000" />
     </task>
     <servers />
   </component>
@@ -86,16 +88,15 @@
         </breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/Heap.kt</url>
-          <line>6</line>
-          <option name="timeStamp" value="6" />
+          <line>7</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="JetRunConfigurationType">
-        <watch expression="i" />
-        <watch expression="list[i]" />
-      </configuration>
-    </watches-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Node" memberName="right" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
