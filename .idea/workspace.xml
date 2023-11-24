@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e72032ee-cb0c-4bde-8ab3-40f2796ebfad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Sort/MainSort.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Stuff/Recursion.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Heap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Heap.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Bubble.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Sort/Bubble.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Heap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Sort/Heap.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Insertion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Sort/Insertion.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Merge.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Sort/Merge.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Quick.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Sort/Quick.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Selection.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Sort/Selection.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/buffer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Sort/buffer.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +60,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\usersP\IdeaProjects\Sorting\src\main\kotlin\Sort" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,7 +85,8 @@
       <workItem from="1700304008929" duration="6954000" />
       <workItem from="1700478566193" duration="6241000" />
       <workItem from="1700504468975" duration="3405000" />
-      <workItem from="1700654921046" duration="3452000" />
+      <workItem from="1700654921046" duration="3586000" />
+      <workItem from="1700845203084" duration="6545000" />
     </task>
     <servers />
   </component>
@@ -86,11 +100,6 @@
           <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="4" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/Heap.kt</url>
-          <line>7</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>

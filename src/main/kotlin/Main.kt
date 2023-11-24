@@ -1,53 +1,24 @@
-import kotlin.random.Random
+import Sort.*
+import Stuff.*
 
-const val num = 20
+
+import java.math.BigInteger
 fun main() {
-    // list and sorting
-    var list = generateList(num)
-    printList(list)
-    printList(sortBubble(list))
-    println()
-    // list and sorting
-    list = generateList(num)
-    printList(list)
-    printList(sortInsertion(list))
-    println()
-    // list and sorting
-    list = generateList(num)
-    printList(list)
-    printList(sortSelection(list))
-    println()
 
-    // list and sorting
-    list = generateList(num)
-    printList(list)
-    printList(sortMerge(list))
-    println()
-
-    // list and sorting
-    list = generateList(num)
-    printList(list)
-    printList(sortHeap(list))
+  //  MainSort()
 
 
-}
-
-
-fun generateList(length: Int): MutableList<Int> {
-    val random = Random
-    val list = MutableList(length) { random.nextInt(0, 100) }
-    return list
-}
-
-fun printList(list: MutableList<Int>)
-{
-
-    for (i in 0..list.size-1)
+    for (i in 0 until  101 )
     {
-        print("${list[i]} \t")
+
+        println("$i - ${recursiveExponentiationNMinus(i)}")
     }
-    println("| min : ${list.min()} \t max : ${list.max()}")
+
+
 }
+
+
+
 
 
 

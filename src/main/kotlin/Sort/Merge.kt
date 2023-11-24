@@ -1,4 +1,4 @@
-
+package Sort
 fun sortMerge(list: MutableList<Int>):MutableList<Int>
 {
     val sortedList = divider(list)
