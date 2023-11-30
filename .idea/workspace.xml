@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e72032ee-cb0c-4bde-8ab3-40f2796ebfad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/BinarySearchTree.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/BinaryTree.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Graph.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/HashMap.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Heap.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/LinkedList.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/MainDataStructure.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Map.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Matrix.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Queue.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Stack.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Stuff/Recursion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Stuff/Recursion.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataStructure/LinkedList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/LinkedList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataStructure/MainDataStructure.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/MainDataStructure.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Queue.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Queue.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Stack.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Stack.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +90,8 @@
       <workItem from="1701102065832" duration="2672000" />
       <workItem from="1701156574060" duration="5842000" />
       <workItem from="1701189221275" duration="1966000" />
-      <workItem from="1701332522852" duration="6182000" />
+      <workItem from="1701332522852" duration="6242000" />
+      <workItem from="1701359188872" duration="5347000" />
     </task>
     <servers />
   </component>

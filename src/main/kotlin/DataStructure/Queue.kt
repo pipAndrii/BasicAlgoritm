@@ -3,7 +3,7 @@ package DataStructure
 class Queue <T>(var element:T? = null,var link:Queue<T>? = null){
 
     companion object {
-        var amount: Int = 0
+        var amount: UInt = 0u
     }
     init {
         amount++
@@ -21,6 +21,7 @@ class Queue <T>(var element:T? = null,var link:Queue<T>? = null){
                 current = current.link!!
             }
             current.link = Queue(newElement)
+
         }
     }
 
@@ -39,6 +40,7 @@ class Queue <T>(var element:T? = null,var link:Queue<T>? = null){
             this.link = this.link!!.link
             return buff
         }
+        amount--
         
     }
 
@@ -47,10 +49,6 @@ class Queue <T>(var element:T? = null,var link:Queue<T>? = null){
         this.link?.Print()
     }
 
-    fun isNull():Boolean
-    {
-       return element == null
-    }
 
 
 }

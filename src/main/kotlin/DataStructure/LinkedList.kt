@@ -3,7 +3,7 @@ package DataStructure
 class LinkedList<T>(var element:T? = null,var link:LinkedList<T>? = null) {
 
     companion object {
-        var amount: Int = 0
+        var amount: UInt = 0u
     }
     init {
         amount++
