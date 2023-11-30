@@ -5,17 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e72032ee-cb0c-4bde-8ab3-40f2796ebfad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Sort/MainSort.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Stuff/Recursion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/BinarySearchTree.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/BinaryTree.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Graph.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/HashMap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Heap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/LinkedList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/MainDataStructure.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Map.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Matrix.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Queue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Stack.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Bubble.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Sort/Bubble.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Heap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Sort/Heap.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Insertion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Sort/Insertion.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Merge.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Sort/Merge.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Quick.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Sort/Quick.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Selection.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Sort/Selection.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/buffer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Sort/buffer.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Stuff/Recursion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Stuff/Recursion.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -57,11 +61,15 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\usersP\IdeaProjects\Sorting\src\main" />
       <recent name="C:\Users\usersP\IdeaProjects\Sorting\src\main\kotlin\Sort" />
     </key>
   </component>
@@ -87,6 +95,11 @@
       <workItem from="1700504468975" duration="3405000" />
       <workItem from="1700654921046" duration="3586000" />
       <workItem from="1700845203084" duration="6545000" />
+      <workItem from="1701085346281" duration="2315000" />
+      <workItem from="1701102065832" duration="2672000" />
+      <workItem from="1701156574060" duration="5842000" />
+      <workItem from="1701189221275" duration="1966000" />
+      <workItem from="1701332522852" duration="6182000" />
     </task>
     <servers />
   </component>

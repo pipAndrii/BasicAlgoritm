@@ -1,18 +1,13 @@
 import Sort.*
 import Stuff.*
+import DataStructure.*
 
-
-import java.math.BigInteger
 fun main() {
 
   //  MainSort()
 
+    MainDataStructure()
 
-    for (i in 0 until  101 )
-    {
-
-        println("$i - ${recursiveExponentiationNMinus(i)}")
-    }
 
 
 }

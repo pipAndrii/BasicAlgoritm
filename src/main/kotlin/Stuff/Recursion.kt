@@ -59,3 +59,25 @@ fun recursiveExponentiationN(pair: Pair<Int, Int>): Pair<Int, Int> {
 
     return Pair(result, pair.second - 1)
 }
+
+
+
+// ХВОСТОВА РЕКУРСІЯ
+fun Phobonachi(triple: Triple<Int,Int,Int>):Triple<Int,Int,Int>
+{
+    if (triple.first == 0)
+    {
+        println(triple.second)
+        println(triple.third)
+    }
+    if (triple.first == 100)
+    {
+        return triple
+    }
+    var n = triple.first + 1
+    var a = triple.third
+    var b = triple.second+triple.third
+    println(b)
+    return Phobonachi(Triple(n,a,b))
+
+}
