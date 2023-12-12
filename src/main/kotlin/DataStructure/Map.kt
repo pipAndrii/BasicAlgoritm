@@ -1,4 +1,0 @@
-package DataStructure
-
-class Map {
-}

@@ -57,10 +57,10 @@ class LinkedList<T>(var element:T? = null,var link:LinkedList<T>? = null) {
             this.element = null
         }
     }
-    fun removeByValue(value:LinkedList<T>) {
+    fun removeByValue(value:T) {
 
         // if first element is looked for
-        if (link == null && element == value.element)
+        if (link == null && element == value)
         {
             this.element = null
             amount--
@@ -68,7 +68,7 @@ class LinkedList<T>(var element:T? = null,var link:LinkedList<T>? = null) {
         var current = this
         var beforeLast = this
         while (current.link != null) {
-            if (current.element == value.element)
+            if (current.element == value)
             {
                 beforeLast.link = current.link
                 amount--
@@ -77,7 +77,7 @@ class LinkedList<T>(var element:T? = null,var link:LinkedList<T>? = null) {
             beforeLast = current
             current = current.link!!
         }
-        if (current.element == value.element) {
+        if (current.element == value) {
             current.element = null
             amount--
         }
@@ -85,8 +85,32 @@ class LinkedList<T>(var element:T? = null,var link:LinkedList<T>? = null) {
     }
 
 
+//           fun next(): LinkedList<T> {
+//               var current = this
+//               if (current.link != null)
+//               {
+//                   current = current.link!!
+//               }
+//            return current
+//            }
+
+    fun isEmpty():Boolean
+    {
+        if (this.element == null)
+        {
+            return true
+        }
+        else
+        {
+            return false
+        }
+    }
     fun Print() {
-        println(element)
+
+        if (element != null) println(element)
         this.link?.Print()
+
+           println()
+
     }
 }

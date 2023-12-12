@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e72032ee-cb0c-4bde-8ab3-40f2796ebfad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataStructure/HashMap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/HashMap.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataStructure/LinkedList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/LinkedList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataStructure/MainDataStructure.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/MainDataStructure.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Map.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Matrix.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Queue.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Queue.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="e021286ba2cc75869e0255010769aeea6af35467" />
+        <entry key="$PROJECT_DIR$" value="5b470952442bcff7d2ddad6f8ab4e922554ca68d" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -88,7 +95,16 @@
       <workItem from="1701156574060" duration="5842000" />
       <workItem from="1701189221275" duration="1966000" />
       <workItem from="1701332522852" duration="6242000" />
-      <workItem from="1701359188872" duration="5750000" />
+      <workItem from="1701359188872" duration="5825000" />
+      <workItem from="1701414767746" duration="7867000" />
+      <workItem from="1701523767608" duration="1161000" />
+      <workItem from="1702036985963" duration="2304000" />
+      <workItem from="1702048616072" duration="4244000" />
+      <workItem from="1702114170772" duration="666000" />
+      <workItem from="1702321951739" duration="5578000" />
+      <workItem from="1702370122337" duration="7784000" />
+      <workItem from="1702384758403" duration="1965000" />
+      <workItem from="1702391658945" duration="2410000" />
     </task>
     <servers />
   </component>
@@ -106,6 +122,8 @@
     </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
+        <PinnedItemInfo parentTag="DataStructure.LinkedList" memberName="element" />
+        <PinnedItemInfo parentTag="DataStructure.Matrix$Node" memberName="j" />
         <PinnedItemInfo parentTag="Node" memberName="right" />
       </pinned-members>
     </pin-to-top-manager>
