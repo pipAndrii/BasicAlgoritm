@@ -7,13 +7,13 @@
     <list default="true" id="e72032ee-cb0c-4bde-8ab3-40f2796ebfad" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataStructure/HashMap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/HashMap.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataStructure/LinkedList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/LinkedList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataStructure/BinaryTree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/BinaryTree.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Graph.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Graph.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataStructure/MainDataStructure.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/MainDataStructure.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Map.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Matrix.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Queue.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure/Queue.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Sort/buffer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Stuff/Recursion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Stuff/Recursion.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +59,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -104,7 +105,19 @@
       <workItem from="1702321951739" duration="5578000" />
       <workItem from="1702370122337" duration="7784000" />
       <workItem from="1702384758403" duration="1965000" />
-      <workItem from="1702391658945" duration="2410000" />
+      <workItem from="1702391658945" duration="7687000" />
+      <workItem from="1702464514595" duration="11059000" />
+      <workItem from="1702481485411" duration="176000" />
+      <workItem from="1702482373398" duration="921000" />
+      <workItem from="1702577577246" duration="7116000" />
+      <workItem from="1702629915143" duration="6758000" />
+      <workItem from="1702638677592" duration="443000" />
+      <workItem from="1702666914166" duration="5727000" />
+      <workItem from="1702673322843" duration="1755000" />
+      <workItem from="1702891407823" duration="4595000" />
+      <workItem from="1702922486448" duration="11148000" />
+      <workItem from="1702995909392" duration="875000" />
+      <workItem from="1702998204038" duration="6062000" />
     </task>
     <servers />
   </component>

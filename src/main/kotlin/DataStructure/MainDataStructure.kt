@@ -1,49 +1,52 @@
 package DataStructure
 
+
+import java.util.Dictionary
 import kotlin.collections.HashMap
 
 fun MainDataStructure()
 {
-//    var linkedList:LinkedList<Int> = LinkedList()
-//    linkedList.add(1)
-//    linkedList.add(2)
-//    linkedList.add(3)
-//    linkedList.add(4)
-//
-//
-//
-//    linkedList.Print()
-//    println("-----------------------")
-//    linkedList.removeByValue(2)
-//    linkedList.Print()
+   /*
+    var linkedList:LinkedList<Int> = LinkedList()
+    linkedList.add(1)
+    linkedList.add(2)
+    linkedList.add(3)
+    linkedList.add(4)
 
-//    println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
-//        var queue:Queue<Int> = Queue()
-//    queue.enQueue(1)
-//    queue.enQueue(2)
-//    queue.enQueue(3)
-//    queue.enQueue(4)
-//
-//
-//
-//    queue.Print()
-//    queue.deQueue()
-//    queue.deQueue()
-//    queue.deQueue()
-//    println("----------------------------")
-//    queue.Print()
-//    println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
-//
-//    var stack:Stack<Int> = Stack()
-//
-//    stack.push(1)
-//    stack.push(2)
-//    stack.push(3)
-//    stack.push(4)
-//
-//    stack.pop()
-//
-//    stack.print()
+
+
+    linkedList.Print()
+    println("-----------------------")
+    linkedList.removeByValue(2)
+    linkedList.Print()
+
+    println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
+        var queue:Queue<Int> = Queue()
+    queue.enQueue(1)
+    queue.enQueue(2)
+    queue.enQueue(3)
+    queue.enQueue(4)
+
+
+
+    queue.Print()
+    queue.deQueue()
+    queue.deQueue()
+    queue.deQueue()
+    println("----------------------------")
+    queue.Print()
+    println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
+
+    var stack:Stack<Int> = Stack()
+
+    stack.push(1)
+    stack.push(2)
+    stack.push(3)
+    stack.push(4)
+
+    stack.pop()
+
+    stack.print()
 
 
  var muHashMap:DataStructure.HashMap<Int,String> = DataStructure.HashMap()
@@ -77,4 +80,23 @@ fun MainDataStructure()
 
 
     muHashMap.print()
+*/
+/*
+
+    var binaryTree:Node<Int> = Node(5)
+
+    binaryTree.addNode(7)
+    binaryTree.addNode(8)
+    binaryTree.addNode(10)
+    binaryTree.addNode(1)
+    binaryTree.printInorder()
+*/
+
+
 }
+
+
+
+
+
+
